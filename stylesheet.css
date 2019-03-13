@@ -22,7 +22,7 @@
 
   ul {
     padding: 10px;
-    background: rgba(233,143,123,.9);
+    background: rgba(209,213,213,.9);
     color:black;
     background-size: cover;
 }
@@ -47,9 +47,9 @@
     font-family: 'Overlock', cursive;
     font-size: 17px;
     background: black;
-    background: linear-gradient(bottom, rgba(233,143,123,1), rgba(0,0,0,.4));
-    background: -webkit-linear-gradient(bottom, rgba(233,143,123,1), rgba(0,0,0,.4));
-    background: -moz-linear-gradient(bottom, rgba(233,143,123,1), rgba(0,0,0,.4));
+    background: linear-gradient(bottom, rgba(209,213,213,1), rgba(0,0,0,.4));
+    background: -webkit-linear-gradient(bottom, rgba(209,213,213,1), rgba(0,0,0,.4));
+    background: -moz-linear-gradient(bottom, rgba(209,213,213,1), rgba(0,0,0,.4));
     padding: 10px;
     line-height: 28px;
     text-align: justify;
